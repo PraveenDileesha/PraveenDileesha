@@ -22,6 +22,6 @@ If you want to connect, discuss technology, or just say hi, feel free to drop me
 
 ## ⚡ Fun Fact
 
-Apart from coding, I love playing computer games 🎮 and hit the gym 💪🏻
+Apart from coding, I love playing computer games 🎮 and hitting the gym 💪🏻
 
 Thanks for stopping by Don't hesitate to get in touch.
