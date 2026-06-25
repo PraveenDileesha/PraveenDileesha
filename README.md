@@ -1,4 +1,4 @@
-# Hey, I'm Praveen 👋
+# Hey, I'm Praveen 🫰🏼
 
 An engineer with a First Class B.Eng (Hons) in Software Engineering and one year at WSO2 as a SE Intern. I build across the full-stack while integrating AI/ML capabilities into applications, with a focus on shipping production-level code while ramping up on new technologies to solve real user problems.
 
@@ -7,9 +7,9 @@ Always open to connect if you're creating interesting software and need a reliab
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PraveenDileesha&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PraveenDileesha&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=default" />
-  <img alt="Praveen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PraveenDileesha&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=default" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PraveenDileesha&show_icons=true&hide_border=true&count_private=true&hide_rank=true&custom_title=Current+GitHub+Stats&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PraveenDileesha&show_icons=true&hide_border=true&count_private=true&hide_rank=true&custom_title=Current+GitHub+Stats&theme=default" />
+  <img alt="Praveen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PraveenDileesha&show_icons=true&hide_border=true&count_private=true&hide_rank=true&custom_title=Current+GitHub+Stats&theme=default" />
 </picture>
 
 <picture>
