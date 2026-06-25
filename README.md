@@ -1,27 +1,19 @@
-# Hi there 👋, I'm Praveen Dileesha!
+# Hey, I'm Praveen 👋
 
-I'm a passionate software engineering student with a keen interest in Java and Python. Although my focus lies primarily in these languages, I'm always open to exploring new technologies and expanding my skill set.
+Software engineer with a First Class B.Eng (Hons) in Software Engineering and a year at WSO2 building production systems across identity, security workflows, and platform infrastructure.
 
-## 📚 Currently Learning
+I work across the full stack while integrating AI/ML into real applications — not as a side experiment, but as a core part of what ships. I care about writing code that holds up in production and picking up new tech fast enough to solve actual problems.
 
-As part of my ongoing education, I'm currently focusing on:
-- Advanced Java concepts
-- Python programming
-- Datastructures and Algorithms
-- Web development (HTML, CSS, JS)
-- Datamining and Machine Learning 
-- Software engineering principles and practice
-  
-## 💼 Projects
+Right now, I'm looking for roles at the intersection of **software engineering and applied AI/ML** where I can contribute from day one.
 
-I'm actively looking for opportunities to contribute to open-source projects or collaborate on interesting ideas. Feel free to reach out if you have something in mind!
+---
 
-## 📫 How to Reach Me
+![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenDileesha&show_icons=true&hide_border=true&count_private=true&theme=default)
 
-If you want to connect, discuss technology, or just say hi, feel free to drop me a message here on GitHub.
+![Trophies](https://github-profile-trophy.vercel.app/?username=PraveenDileesha&no-frame=true&row=1&column=6)
 
-## ⚡ Fun Fact
+---
 
-Apart from coding, I love playing computer games 🎮 and hitting the gym 💪🏻
+### Let's connect
 
-Thanks for stopping by Don't hesitate to get in touch.
+[LinkedIn](https://linkedin.com/in/praveen-dileesha) · [Portfolio](https://praveendileesha.vercel.app)
