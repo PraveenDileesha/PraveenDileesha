@@ -1,10 +1,8 @@
 # Hey, I'm Praveen 👋
 
-Software engineer with a First Class B.Eng (Hons) in Software Engineering and a year at WSO2 building production systems across identity, security workflows, and platform infrastructure.
+An engineer with a First Class B.Eng (Hons) in Software Engineering and one year at WSO2 as a SE Intern. I build across the full-stack while integrating AI/ML capabilities into applications, with a focus on shipping production-level code while ramping up on new technologies to solve real user problems. 
 
-I work across the full stack while integrating AI/ML into real applications — not as a side experiment, but as a core part of what ships. I care about writing code that holds up in production and picking up new tech fast enough to solve actual problems.
-
-Right now, I'm looking for roles at the intersection of **software engineering and applied AI/ML** where I can contribute from day one.
+Always open to connect if you're creating interesting software and need a reliable engineer.
 
 ---
 
