@@ -8,9 +8,17 @@ Right now, I'm looking for roles at the intersection of **software engineering a
 
 ---
 
-![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenDileesha&show_icons=true&hide_border=true&count_private=true&theme=default)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PraveenDileesha&show_icons=true&hide_border=true&count_private=true&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PraveenDileesha&show_icons=true&hide_border=true&count_private=true&theme=default" />
+  <img alt="Praveen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PraveenDileesha&show_icons=true&hide_border=true&count_private=true&theme=default" />
+</picture>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=PraveenDileesha&no-frame=true&row=1&column=6)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=PraveenDileesha&no-frame=true&row=1&column=6&theme=darkhub" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=PraveenDileesha&no-frame=true&row=1&column=6&theme=flat" />
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=PraveenDileesha&no-frame=true&row=1&column=6&theme=flat" />
+</picture>
 
 ---
 
